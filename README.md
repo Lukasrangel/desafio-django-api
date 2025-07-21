@@ -39,6 +39,6 @@ para cadastrar um cliente, usando serializer.py dentro do app para validar os da
 criar um app chamado pedidos, com três endpoints, um para consultar todos os pedidos, outro para consultar todos os pedidos de um usuario, 
 e um endpoint post para criar um pedido.
 
-Dica para pedidos, criar uma tabela itens_pedidos que faz a relação entre o pedido e o item, para cada linha da tabela é uma relação entre item e pedido
+Dica para pedidos, criar uma tabela produtos_pedidos que faz a relação entre o pedido e o produto, para cada linha da tabela é uma relação entre produto e pedido
  
 
